@@ -1,0 +1,4 @@
+client/build/
+server/certs/
+server/shooter-server
+*.key
